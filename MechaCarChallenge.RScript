@@ -21,7 +21,7 @@ Suspension_Coil <- read.csv(file='Suspension_Coil.csv',check.names=F,stringsAsFa
 View(Suspension_Coil)
 
 
-t.test(log10(lot_summary$Median),mu=mean(log10(1500))) #compare sample versus population means
+t.test(Suspension_Coil$PSI,mu=1500) #compare all lots PSI versus population
 t.test(subset(Suspension_Coil, Manufacturing_Lot =='Lot1')$PSI,mu=1500) #compare sample versus population means for lot 1
 t.test(subset(Suspension_Coil, Manufacturing_Lot =='Lot2')$PSI,mu=1500) #compare sample versus population means for lot 2
 t.test(subset(Suspension_Coil, Manufacturing_Lot =='Lot3')$PSI,mu=1500) #compare sample versus population means for lot 3
