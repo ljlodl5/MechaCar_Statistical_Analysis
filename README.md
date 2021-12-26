@@ -23,6 +23,8 @@ Answer) With a R2 of >.7 the strength of correlation is high towards predicting 
 
 ![Exhibit3](https://github.com/ljlodl5/MechaCar_Statistical_Analysis/blob/main/TotalSummarySuspensionCoil.png)
 
+
+
 ![Exhibit4](https://github.com/ljlodl5/MechaCar_Statistical_Analysis/blob/main/Lot%20SummarySuspensionCoil.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
