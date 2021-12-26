@@ -55,7 +55,7 @@ demonstrates a potential that the added samples provides a correlation between v
 
 
 1) What metric or metrics are you going to test?
-Answer) When looking at whether to buy a vehicle an important quality is safety
+Answer) When looking at whether to buy a vehicle an important quality is safety.
 The data to add would include highway statistics injury/fatality count due to system failure vs. user error and would want to include make/model/year, seat count, doors (2-door/4-door) and airbags
 
 2) What is the null hypothesis or alternative hypothesis? 
